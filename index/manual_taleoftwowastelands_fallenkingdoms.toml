@@ -1,0 +1,5 @@
+name = "Manual_TaleofTwoWastelands_FallenKingdoms"
+display_name = "Manual: Tale of Two Wastelands - Fallen Kingdoms"
+
+[versions]
+"0.0.1" = { local = "../apworlds/manual_taleoftwowastelands_fallenkingdoms-0.0.1.apworld" }
